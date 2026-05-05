@@ -16,3 +16,10 @@ TrustGram is an end-to-end encrypted messenger built on top of Telegram. It uses
 | [trustgram-ui](https://github.com/TrustGram/trustgram-ui) | Telegram Mini App frontend | Cloudflare Pages |
 | [trustgram-bot](https://github.com/TrustGram/trustgram-bot) | Bot + API server | Render |
 | [trustgram-crypto](https://github.com/TrustGram/trustgram-crypto) | Cryptographic engine | Cloudflare Pages |
+
+## Documentation
+
+- [Architecture](https://github.com/TrustGram/.github/blob/main/Architecture.md)
+- [Cryptography](https://github.com/TrustGram/.github/blob/main/Cryptography.md)
+- [User Cases](https://github.com/TrustGram/.github/blob/main/User-Cases.md)
+- [Deployment](https://github.com/TrustGram/.github/blob/main/Deployment.md)
