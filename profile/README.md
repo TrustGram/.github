@@ -19,7 +19,10 @@ TrustGram is an end-to-end encrypted messenger built on top of Telegram. It uses
 
 ## Documentation
 
-- [Architecture](https://github.com/TrustGram/.github/blob/main/Architecture.md)
-- [Cryptography](https://github.com/TrustGram/.github/blob/main/Cryptography.md)
-- [User Cases](https://github.com/TrustGram/.github/blob/main/User-Cases.md)
-- [Deployment](https://github.com/TrustGram/.github/blob/main/Deployment.md)
+| Topic | trustgram-bot | trustgram-crypto |
+|---|---|---|
+| Architecture | [Architecture](https://github.com/TrustGram/trustgram-bot/wiki/Architecture) | [Development Guide](https://github.com/TrustGram/trustgram-crypto/wiki/Development-Guide) |
+| Cryptography | [Cryptography](https://github.com/TrustGram/trustgram-bot/wiki/Cryptography) | [Cryptography](https://github.com/TrustGram/trustgram-crypto/wiki/Cryptography) |
+| Security | [Security Model](https://github.com/TrustGram/trustgram-bot/wiki/Security-Model) | [Security Model](https://github.com/TrustGram/trustgram-crypto/wiki/Security-Model) |
+| Getting Started | [Getting Started](https://github.com/TrustGram/trustgram-bot/wiki/Getting-Started) | [Getting Started](https://github.com/TrustGram/trustgram-crypto/wiki/Getting-Started) |
+| API Reference | [API Reference](https://github.com/TrustGram/trustgram-bot/wiki/API-Reference) | [API Reference](https://github.com/TrustGram/trustgram-crypto/wiki/API-Reference) |
